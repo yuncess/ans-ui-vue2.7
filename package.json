@@ -31,7 +31,7 @@
     "throttle-debounce": "^2.1.0"
   },
   "peerDependencies": {
-    "vue": "2.5.17"
+    "vue": "^2.7.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.0.1",
